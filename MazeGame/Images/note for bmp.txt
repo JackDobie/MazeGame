@@ -1,0 +1,1 @@
+bmp images need to be inverted as the loader will invert them, therefore making them look normal again

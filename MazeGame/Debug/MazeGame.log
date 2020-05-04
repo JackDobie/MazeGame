@@ -1,0 +1,34 @@
+﻿  Game.cpp
+  GameObject.cpp
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(140,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(140,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(141,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(141,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(142,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(142,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(148,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(148,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(149,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(149,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(150,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(150,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(156,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(156,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(157,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(157,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(158,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(158,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(164,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(164,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(165,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(165,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(166,75): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\MazeGame\GameObject.cpp(166,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  GLUTCallbacks.cpp
+  LevelMap.cpp
+  main.cpp
+  MeshLoader.cpp
+  SceneObject.cpp
+  Texture2D.cpp
+  Generating Code...
+  MazeGame.vcxproj -> D:\OneDrive\OneDrive - Staffordshire University\FOGGS\Year 1\Semester 2\MazeGame\MazeGame\Debug\MazeGame.exe
